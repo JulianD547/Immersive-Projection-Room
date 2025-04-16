@@ -70,6 +70,7 @@
     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_SnowOverTime.cs" />
     <Compile Include="Assets\Ultimate 10 Plus Shaders\Scripts\U10PS_DissolveOverTime.cs" />
     <Compile Include="Assets\Scripts\colourchange.cs" />
+    <Compile Include="Assets\Scripts\ProjectorSurfaceOnly.cs" />
     <Compile Include="Assets\Scripts\MaterialChanger.cs" />
     <Compile Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plexus\Plexus.cs" />
     <Compile Include="Assets\Scripts\rotate.cs" />
@@ -77,8 +78,11 @@
     <Compile Include="Assets\ShaderConverter\Examples\Scripts\ImageShaderInput.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+    <None Include="Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Edge Detection.shader" />
     <None Include="Assets\ShaderConverter\Examples\Shaders\CustomShaderMultipass-BufferC.shader" />
+    <None Include="Assets\Effects\Projectors\Guidelines.txt" />
     <None Include="Assets\ShaderConverter\Examples\Shaders\MusicInputShader.shader" />
     <None Include="Assets\ShaderConverter\Plugins\x86_64\ShaderConverter.dll" />
     <None Include="Assets\ShaderConverter\Examples\Shaders\CustomShaderMultipass-BufferB.shader" />
@@ -87,6 +91,7 @@
     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Ocean.shader" />
     <None Include="Assets\ShaderConverter\Third-Party Notices.txt" />
     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Plasma.shader" />
+    <None Include="Assets\Resources\SurfaceOnly.shader" />
     <None Include="Assets\Ultimate 10 Plus Shaders\Shaders\Outline.shader" />
     <None Include="Assets\ShaderConverter\Examples\Shaders\DeformShader.shader" />
     <None Include="Assets\ShaderConverter\Examples\Shaders\ChocolateShader.shader" />

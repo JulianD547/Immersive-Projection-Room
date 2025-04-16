@@ -1,0 +1,17 @@
+{
+  "player_build_data": [
+    {
+      "type": "playerBuildTimingData",
+      "msg": {
+        "build_event_id": "43a500323e7825d4c83e6955747f8c41",
+        "build_player": 2025,
+        "preprocess_player": 23,
+        "produce_player_script_assemblies": 1034,
+        "build_scripts_dlls": 599,
+        "postprocess_built_player": 178,
+        "node_summary_table": []
+      },
+      "version": 1
+    }
+  ]
+}

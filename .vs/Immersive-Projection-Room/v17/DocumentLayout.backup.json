@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\su-jjd95\\Downloads\\Unity Projects\\Immersive-Projection-Room\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5479A2-6DB8-BD21-0080-CFD86C31606C}|Assembly-CSharp.csproj|c:\\users\\su-jjd95\\downloads\\unity projects\\immersive-projection-room\\assets\\resources\\surfaceonly.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DF5479A2-6DB8-BD21-0080-CFD86C31606C}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\surfaceonly.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5479A2-6DB8-BD21-0080-CFD86C31606C}|Assembly-CSharp.csproj|c:\\users\\su-jjd95\\downloads\\unity projects\\immersive-projection-room\\assets\\scripts\\controlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5479A2-6DB8-BD21-0080-CFD86C31606C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurfaceOnly.shader",
+              "DocumentMoniker": "C:\\Users\\su-jjd95\\Downloads\\Unity Projects\\Immersive-Projection-Room\\Assets\\Resources\\SurfaceOnly.shader",
+              "RelativeDocumentMoniker": "Assets\\Resources\\SurfaceOnly.shader",
+              "ToolTip": "C:\\Users\\su-jjd95\\Downloads\\Unity Projects\\Immersive-Projection-Room\\Assets\\Resources\\SurfaceOnly.shader",
+              "RelativeToolTip": "Assets\\Resources\\SurfaceOnly.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-04-16T21:39:04.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlMenu.cs",
+              "DocumentMoniker": "C:\\Users\\su-jjd95\\Downloads\\Unity Projects\\Immersive-Projection-Room\\Assets\\Scripts\\ControlMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlMenu.cs",
+              "ToolTip": "C:\\Users\\su-jjd95\\Downloads\\Unity Projects\\Immersive-Projection-Room\\Assets\\Scripts\\ControlMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControlMenu.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAwwD4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T17:26:49.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
